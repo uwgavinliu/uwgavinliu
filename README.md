@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello Peeps 👋, Gavin Reporting In :)!
 
-<!--
-**uwgavinliu/uwgavinliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### I'm a Chemical Engineering Student @ the University of Waterloo, and an incoming Engineering Analyst @ Toyota Motor Manufacturing Canada.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
